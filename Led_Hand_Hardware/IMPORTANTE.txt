@@ -1,0 +1,28 @@
+Observações do PCB:
+
+Base Material - FR4
+Layers - 2
+Dimensions - 91.95 * 71.63
+Product Type - Industrial/Consumer
+Different Design - 1
+Delivery Format - Single PCB
+PCB Thickness - 1,2
+PCB Color - Black
+Silkscreen - White
+Surface Finish - HASL (with lead)
+Outer Copper Weight - 1 oz
+Gold Fingers - No
+Confirm Production file - No
+Flying Probe Test - Fully test
+Castellated Holes - No
+Remove Order Number - No
+4-Wire Kelvin Test - No
+Paper between PCBs - No
+Appearance Quality - IPC Class 2 Standart
+
+
+Observações Assembly
+
+Assembly Side - top side
+PCBA Type - Economic
+Tooling holes - Added by JLCPCB
